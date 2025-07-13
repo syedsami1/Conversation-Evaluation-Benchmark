@@ -1,0 +1,17 @@
+[
+  {
+    "conv_id": "001",
+    "turns": [
+      {
+        "turn_id": 1,
+        "speaker": "user",
+        "text": "I feel anxious about the future."
+      },
+      {
+        "turn_id": 2,
+        "speaker": "bot",
+        "text": "That\u2019s a very common feeling. You\u2019re not alone."
+      }
+    ]
+  }
+]
